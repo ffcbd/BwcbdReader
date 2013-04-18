@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>.bwcbd</key>
+	<string>book</string>
+	<key>.epub</key>
+	<string>book</string>
+	<key>.png</key>
+	<string>image</string>
+	<key>.pdf</key>
+	<string>pdf</string>
+	<key>.mp4</key>
+	<string>movie</string>
+</dict>
+</plist>
